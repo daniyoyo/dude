@@ -1,4 +1,13 @@
 ---
+title: Blog Python
+author: ''
+date: '2020-05-12'
+slug: blog-python
+categories: []
+tags: []
+description: ''
+---
+---
 title: "Python Blog"
 author: "Danielle De La Paz"
 date: '2020-05-12'
