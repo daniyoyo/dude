@@ -45,9 +45,6 @@ This example also shows that there are 8 matches of the letter "d" followed by a
 
 Another cool python function is being able to filter a list with the function "regex". In this example I will use a list with multiple strings and use filter to match the pattern I want from the list. This certain list is names I thought about naming tipsy before I got her. The pattern I am looking for is how many names start with the letter "j".
 
-```{R}
-library(tidyverse)
-```
 
 ```{python}
 import re
