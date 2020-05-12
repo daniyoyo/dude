@@ -7,16 +7,7 @@ categories: []
 tags: []
 description: ''
 ---
----
-title: "Python Blog"
-author: "Danielle De La Paz"
-date: '2020-05-12'
-output: word_document
-description: ''
-slug: python-blog
-tags: []
-categories: []
----
+
 Hey Y'all!
 Welcome to my first Python Blog Post!
 Before I dive right in, please enjoy this picture of my doggo Tipsy! I got her as a present when I was studying for my DAT and we've been best friends ever since !!!
