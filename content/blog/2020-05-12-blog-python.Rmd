@@ -1,11 +1,11 @@
 ---
-title: Blog Python
+title: "Blog Python"
 author: ''
 date: '2020-05-12'
-slug: blog-python
-categories: []
-tags: []
 description: ''
+slug: blog-python
+tags: []
+categories: []
 ---
 
 Hey Y'all!
