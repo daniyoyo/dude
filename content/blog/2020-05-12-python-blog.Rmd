@@ -1,16 +1,17 @@
 ---
-title: Python Blog
-author: Danielle De La Paz
+title: "Python Blog"
+author: "Danielle De La Paz"
 date: '2020-05-12'
-slug: python-blog
-categories: []
-tags: []
+output: word_document
 description: ''
+slug: python-blog
+tags: []
+categories: []
 ---
 Hey Y'all!
 Welcome to my first Python Blog Post!
 Before I dive right in, please enjoy this picture of my doggo Tipsy! I got her as a present when I was studying for my DAT and we've been best friends ever since !!!
-![](/blog/2020-05-12-python-blog_files/Tipsydoggo.JPG)
+
 
 To start, in my SDS 348 class we have been learning about the interaction between R code and Python. I thought it would be neat to discuss how they interact with each other. To begin I included an R code chunk to show you how the two can work together!!
 R code:
@@ -68,4 +69,5 @@ Overall I hope this blog gave a small sneak peek into how R and Python can be us
 
 
 Have a great summer! - Danielle De La Paz
-![](/blog/2020-05-12-python-blog_files/Tipsters.JPG)
+
+
