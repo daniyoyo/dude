@@ -22,7 +22,6 @@ theme = "hugo-sustain"
 [params.social]
   Github        = "danidancer1"
   Email         = "danielledelapaz@me.com"
-  Telegram      = "danidancer1"
 
 ## Main Menu
 [[menu.main]]
